@@ -1,2 +1,1 @@
-# "mngai" is one of my most interesting projects that will have lots of AI based capacities and many more.
-# this is also one of the ambitious projects of mine.
+# Racque is one of the most interesting projects that will have AI based capacities of a virtual assistant.
